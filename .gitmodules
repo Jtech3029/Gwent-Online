@@ -1,3 +1,6 @@
 [submodule "gw-interface"]
 	path = gw-interface
 	url = git@github.com:Jtech3029/gw-interface.git
+[submodule "gw-server"]
+	path = gw-server
+	url = git@github.com:Jtech3029/gw-server.git
